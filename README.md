@@ -10,24 +10,27 @@ milagre.painosso()
 milagre.Avemaria()
 ```
 Isto irá imprimir na tela:
-```print("Pai nosso que estais no céu")
-    print("Santificado seja o vosso nome")
-    print("Venha a nós o vosso reino")
-    print("Seja feita a vossa vontade")
-    print("Assim na terra como no céu")
-    print("O pão nosso de cada dia nos dai hoje")
-    print("Perdoai as nossas ofensas")
-    print("Assim como nós perdoamos a quem nos tem ofendido")
-    print("E não nos deixeis cair em tentação")
-    print("Mas livrai-nos do mal")
-    print("Amém")
+```
+Pai nosso que estais no céu
+Santificado seja o vosso nome
+Venha a nós o vosso reino
+Seja feita a vossa vontade
+Assim na terra como no céu
+O pão nosso de cada dia nos dai hoje
+Perdoai as nossas ofensas
+Assim como nós perdoamos a quem nos tem ofendido
+E não nos deixeis cair em tentação
+Mas livrai-nos do mal
+Amém
 
-    print("Ave Maria cheia de graça")
-    print("O senhor é convosco")
-    print("Bendita sois vós entre as mulheres")
-    print("Bendito é o fruto do vosso ventre, Jesus")
-    print("Santa Maria mãe de Deus")
-    print("Rogai por nós pecadores")
-    print("Agora e na hora de nossa morte")
-    print("Amém")
+
+Ave Maria cheia de graça
+O Senhor é convosco
+Bendita sois vós entre as mulheres
+E bendito é o fruto do vosso ventre, Jesus
+Santa Maria, Mãe de Deus
+Rogai por nós pecadores
+Agora e na hora de nossa morte
+Amém
+
 ```
